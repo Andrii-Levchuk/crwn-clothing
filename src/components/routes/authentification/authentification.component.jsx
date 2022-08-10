@@ -1,7 +1,7 @@
 import {
 	signInWithGooglePopup,
 	createUserDocumentFromAuth,
-} from '../../../utils/frebase/firebase,utils'
+} from '../../../utils/frebase/firebase.utils'
 import SignUpForm from '../../sign-up-form/sign-up-form.component'
 
 
